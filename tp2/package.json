@@ -1,0 +1,15 @@
+{
+  "name": "filesystem-tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/utils/mapaa.js",
+    "test:sync": "node src/utils/ms.js",
+    "test:callback": "node src/utils/mac.js",
+    "test:promise": "node src/utils/maptc.js",
+    "test:async": "node src/utils/mapaa.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+	"contenidoStr": "{\n  \"name\": \"filesystem-tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"app.js\",\n  \"scripts\": {\n    \"start\": \"node src/utils/mapaa.js\",\n    \"test:sync\": \"node src/utils/ms.js\",\n    \"test:callback\": \"node src/utils/mac.js\",\n    \"test:promise\": \"node src/utils/maptc.js\",\n    \"test:async\": \"node src/utils/mapaa.js\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\"\n}\n",
+	"contenidoObj": {
+		"name": "filesystem-tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "app.js",
+		"scripts": {
+			"start": "node src/utils/mapaa.js",
+			"test:sync": "node src/utils/ms.js",
+			"test:callback": "node src/utils/mac.js",
+			"test:promise": "node src/utils/maptc.js",
+			"test:async": "node src/utils/mapaa.js"
+		},
+		"author": "",
+		"license": "ISC"
+	},
+	"size": 368
+}
